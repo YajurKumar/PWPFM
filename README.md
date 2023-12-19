@@ -33,8 +33,5 @@ The test script `testPWPFM.m` demonstrates how to use the `generatePWPFM` functi
 ## Running the Test
 To run the test script, simply execute `testPWPFM.m` in MATLAB. The script will generate a control signal, process it through the `generatePWPFM` function, and plot the results.
 
-## Contributing
-Contributions to this project are welcome. Please ensure to update tests as appropriate.
-
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
